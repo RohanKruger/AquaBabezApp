@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AquaBabez</string>
+    <string name="text_display">Output</string>
+    <string name="button_login">LOGIN</string>
+    <string name="edit_email">Email</string>
+    <string name="edit_password">Password</string>
+</resources>
